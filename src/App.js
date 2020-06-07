@@ -6,7 +6,7 @@ import TodoItem from './components/TodoItem';
 class App extends Component {
   constructor(){
     super();
-    this.todoItems  = ['Di ia', 'Di an', 'Di ngu'];
+    this.todoItems  = ['Đi ỉa', 'Đi ăn', 'Đi ngủ'];
   }
   render(){
     return (
